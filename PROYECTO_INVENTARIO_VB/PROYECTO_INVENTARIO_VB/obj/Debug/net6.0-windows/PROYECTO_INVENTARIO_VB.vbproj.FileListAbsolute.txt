@@ -1,0 +1,17 @@
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\bin\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.exe
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\bin\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.deps.json
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\bin\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.runtimeconfig.json
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\bin\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.dll
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\bin\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.pdb
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.vbproj.AssemblyReference.cache
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.Form1.resources
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.vbproj.GenerateResource.cache
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.AssemblyInfoInputs.cache
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.AssemblyInfo.vb
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.vbproj.CoreCompileInputs.cache
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.dll
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\refint\PROYECTO_INVENTARIO_VB.dll
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.pdb
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\PROYECTO_INVENTARIO_VB.genruntimeconfig.cache
+C:\Users\af339\source\repos\PROYECTO_INVENTARIO_VB\PROYECTO_INVENTARIO_VB\obj\Debug\net6.0-windows\ref\PROYECTO_INVENTARIO_VB.dll
